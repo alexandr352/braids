@@ -1,0 +1,31 @@
+{
+  "name": "braids",
+  "version": "1.0.0",
+  "description": "Braids is a React-based visual interface designed to work with Abstraktion NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandr352/braids.git"
+  },
+  "keywords": [
+    "React",
+    "user interface",
+    "data management",
+    "validation rules",
+    "Abstraktion",
+    "collections",
+    "CRUD operations",
+    "front-end",
+    "visual interface",
+    "database management"
+  ],
+  "author": "Alexandr352 <alexandr352@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandr352/braids/issues"
+  },
+  "homepage": "https://github.com/alexandr352/braids#readme"
+}
